@@ -1,0 +1,4 @@
+ChemSA
+Linksmasis,II,Poras,Koks klausimas?,Geras klausimas,6,klausk.mp3
+Kulturinis,I,Jonas,Kultura?,Kultura!,5
+Juokingas,I,Roras,Kodel vista ejo per gatve?,Nes neturejo darbo,4,vista.mp3

@@ -1,0 +1,7 @@
+MatkeSA
+Geografija,III,Mantas,Kuri salis gamina daugiausia kavos pasaulyje?,Brazilija,8
+Astrologija,III,Joris,Kokia ryskiausia dangaus zvaigzde?,c)Sirijus,9,a)Merkurijus,b)Saule,c)Sirijus,d)Menulis
+Maistas,II,Hugas,Is kokio riesuto gaunamas marcipanas?,b)Migdolu,5,a)Zemes,b)Migdolu,c)Dangaus
+Muzika,II,Hugas,Kas yra muzika?,Tai yra muzika,6,muzika.mp3
+Linksmasis,II,Agota,Kiek seimo nariu sudaro Lietuvos respublikos seima?,141,9
+Pasaulio istorija,II,Natas,Kelintais metais buvo sukurta muzika?,Muzikos metais,6,metai.mp3

@@ -1,0 +1,8 @@
+InfoSA
+Muzika,II,Martynas,Kelintais metais buvo?,1547,5,metukai.mp3
+Istorinis,I,Goda,Koks yra zymiausias Lietuvos krepsininkas?,b)Sabonis,4,a)Dvarionis,b)Sabonis,c)Grinius,d)Visata
+Linksmasis,III,Agota,Ar einant i KTU girdisi liutai?,Taip,8
+Muzika,II,Martynas,Kelintais metais buvo tas?,1547,5,metukai.mp3
+Pasaulio istorija,II,Jonas,Kada buvo pasirasytas Molotovo-Ribentropo paktas?,b)1939,6,a)1938,b)1939
+Istorinis,III,Jonas,Kas yra budizmo pradininkas?,Buda,9,Buda.mp3
+Sveikata,I,Goda,Kaip vadinasi virusas sukeles pasauline pandemija?,a)Covid-19,3,a)Covid-19,b)John-42,c)Liuno-02,d)Facebook
